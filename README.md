@@ -34,3 +34,7 @@ I'm a Software Engineer based in NCR. I enjoy coding and developing.
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/__aman_7)
 - [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mohammad.aman.334@gmail.com)
 
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-zero0&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
