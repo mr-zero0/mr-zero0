@@ -2,10 +2,12 @@
 
 ## About Me
 
-I'm a Software Engineer based in NCR. I enjoy Coding and Developing.
+I'm a Software Engineer based in NCR. I enjoy coding and developing.
 
 - 🌱 I’m currently learning ASP.NET.
-- 👯 I’m looking to collaborate on Deelopment projects.
+- 👯 I’m looking to collaborate on development projects.
+- ♟️ I love playing chess.
+- 🏏 I enjoy watching cricket.
 
 ## Skills
 
