@@ -36,5 +36,10 @@ I'm a Software Engineer based in NCR. I enjoy coding and developing.
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-zero0&show_icons=true&hide_title=true&count_private=true&hide=prs)
+# GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-zero0&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-zero0&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mr-zero0&theme=dark)
+
 
