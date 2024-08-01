@@ -27,5 +27,5 @@ I'm a Software Engineer based in NCR. I enjoy Coding and Developing.
 ## Contact Me
 
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/mrzero0/)
-- Twitter: [Your Twitter]([https://twitter.com/yourusername](https://twitter.com/__aman_7))
+- Twitter: [Your Twitter](https://twitter.com/__aman_7)
 - Email: [your.email@example.com](mailto:mohammad.aman.334@gmail.com)
