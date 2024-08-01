@@ -4,10 +4,12 @@
 
 I'm a Software Engineer based in NCR. I enjoy coding and developing.
 
+🔭 I’m currently working with HCLTech
 - 🌱 I’m currently learning ASP.NET.
 - 👯 I’m looking to collaborate on development projects.
 - ♟️ I love playing chess.
 - 🏏 I enjoy watching cricket.
+- 👨‍💻 Go to my portfolio [here](https://mr-zero0.github.io/aman/)
 
 ## Skills
 
