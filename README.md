@@ -1,4 +1,4 @@
-# Hi there, I'm Mohd Aman👋
+# Hey there, I'm Mohd Aman👋
 
 ## About Me
 
@@ -26,6 +26,7 @@ I'm a Software Engineer based in NCR. I enjoy Coding and Developing.
 
 ## Contact Me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/mrzero0/)
-- Twitter: [Your Twitter](https://twitter.com/__aman_7)
-- Email: [your.email@example.com](mailto:mohammad.aman.334@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrzero0/)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/__aman_7)
+- [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mohammad.aman.334@gmail.com)
+
