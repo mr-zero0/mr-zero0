@@ -33,12 +33,6 @@ I'm a Software Engineer based in NCR. I enjoy coding, developing, and working on
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/__aman_7)
 - [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mohammad.aman.334@gmail.com)
 
-<h1 align="left"><u>Github stats</u></h1>
-
-<p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/mr-zero0/mr-zero0/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="mr-zero0" />
-</p>
-
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-zero0&show_icons=true&theme=dark)
