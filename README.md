@@ -4,7 +4,7 @@
 
 I'm a Software Engineer based in NCR. I enjoy coding, developing, and working on exciting projects.
 
-🔭 Currently working with ![HCLTech](https://www.hcltech.com/themes/custom/hcltech/img/hcltech-logo.svg)  
+🔭 Currently working with ![HCLTech](https://upload.wikimedia.org/wikipedia/commons/e/e5/HCLTech-new-logo.svg)  
 🌱 Currently learning ASP.NET  
 👯 Looking to collaborate on development projects  
 ♟️ Passionate about playing chess  
