@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Software Engineer based in NCR. I enjoy coding, developing, and working on exciting projects.
+I'm a Software Engineer based in NCR. I love coding, developing, and working on exciting projects.
 
 🔭 Currently working with <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/HCLTech-new-logo.svg" alt="HCLTech" width="60"/><br>
 🌱 Currently learning ASP.NET  
