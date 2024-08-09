@@ -26,6 +26,7 @@ I'm a Software Engineer based in NCR. I love coding, developing, and working on 
 - **Tools:**  
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
   ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## Contact Me
 
