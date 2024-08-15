@@ -9,7 +9,7 @@ I'm a Software Engineer based in NCR. I love coding, developing, and working on 
 👯 Looking to collaborate on development projects  
 ♟️ Passionate about playing chess  
 🏏 Enjoy watching cricket  
-👨‍💻 Check out my portfolio [here](https://mr-zero0.github.io/aman/)
+👨‍💻 Check out my portfolio website [here](https://mr-zero0.github.io/aman/)
 
 ## Skills
 
