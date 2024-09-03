@@ -1,41 +1,27 @@
-# Hey there 👋 , I'm Mohd Aman
+# 💫 About Me:
+I'm a Software Engineer based in NCR region. I love coding, developing, and working on exciting projects.<br><br>🔭 Currently working with HCLTech<br>🌱 Currently learning ASP.NET<br>👯 Looking to collaborate on development projects<br>♟️ Passionate about playing chess<br>🏏 Enjoy watching cricket<br>👨‍💻 Check out my portfolio website here
 
-## About Me
 
-I'm a Software Engineer based in NCR region. I love coding, developing, and working on exciting projects.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrzero0) 
 
-🔭 Currently working with <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/HCLTech-new-logo.svg" alt="HCLTech" width="60"/><br>
-🌱 Currently learning ASP.NET  
-👯 Looking to collaborate on development projects  
-♟️ Passionate about playing chess  
-🏏 Enjoy watching cricket  
-👨‍💻 Check out my portfolio website [here](https://mr-zero0.github.io/aman/)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mr-zero0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mr-zero0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-zero0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Skills
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mr-zero0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- **Programming Languages:**  
-  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) 
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) 
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) 
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- **Frameworks:**  
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) 
-  ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=dotnet&logoColor=white)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mr-zero0&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- **Tools:**  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
-  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+---
+[![](https://visitcount.itsvg.in/api?id=mr-zero0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Contact Me
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrzero0/)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/__aman_7)
-- [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mohammad.aman.334@gmail.com)
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-zero0&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-zero0&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mr-zero0&theme=dark)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
