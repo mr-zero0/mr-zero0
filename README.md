@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software Engineer based in NCR region. I love coding, developing, and working on exciting projects.<br><br>🔭 Currently working with HCLTech<br>🌱 Currently learning ASP.NET<br>👯 Looking to collaborate on development projects<br>♟️ Passionate about playing chess<br>🏏 Enjoy watching cricket<br>👨‍💻 Check out my portfolio website here
+I'm a Software Engineer based in NCR region. I love coding, developing, and working on exciting projects.<br><br>🔭 Currently working with HCLTech<br>🌱 Currently learning ASP.NET, GoLang<br>👯 Looking to collaborate on development projects<br>♟️ Passionate about playing chess<br>🏏 Enjoy watching cricket<br>👨‍💻 Check out my portfolio website here
 
 
 ## 🌐 Socials:
