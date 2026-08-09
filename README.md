@@ -15,13 +15,12 @@ AI Platform Engineer with 4.5+ years in software engineering, including 2+ years
 
 - 🔭 Currently working as an **AI Platform Engineer @ HCLTech**, building AI-driven SDLC automation for enterprise banking workflows
 - 🧠 Experienced in **RAG pipelines**, **multi-agent systems**, **prompt engineering**, and **MCP integrations**
-- 🔀 Contributed to AI-assisted migration workflows converting legacy C# MVC apps into Java and React
+- 🔀 Contributed to AI-assisted migration workflows converting legacy C# MVC apps into React
 - 🛠️ Integrate enterprise tools like Jira, Confluence, GitHub, Bitbucket, and Figma into AI workflows
 - 📡 Previously built LTE/5G telecom tooling using C# and Windows protocol communication systems
 - ♟️ Passionate about playing chess
 - 🏏 Enjoy watching cricket
-- 👨‍💻 Portfolio: [mr-zero0.github.io/aman](https://mr-zero0.github.io/aman/)
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/mrzero0)
+- 👨‍💻 Check out my portfolio and LinkedIn in the section below
 
 ---
 
@@ -54,7 +53,6 @@ AI Platform Engineer with 4.5+ years in software engineering, including 2+ years
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
 <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
 <br/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
